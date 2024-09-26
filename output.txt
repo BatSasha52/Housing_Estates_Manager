@@ -1,0 +1,69 @@
+
+I am Alice Grayson
+ID = 1; Address: Street 1
+Room id=1, volume=56,73, roomType=Apartment
+Persons checked in:
+Bruce Feduk
+Natasha Brown
+
+I am Hanna Brown
+ID = 4; Address: Street 1
+Room id=3, volume=54,92, roomType=Apartment
+Persons checked in:
+Bob Milko
+
+I am Hanna Taylor
+ID = 6; Address: Street 8
+Room id=5, volume=25,68, roomType=Apartment
+Persons checked in:
+Bob Taylor
+Bruce Parker
+
+I am Sergey Smith
+ID = 9; Address: Street 5
+Room id=7, volume=54,8, roomType=Apartment
+Persons checked in:
+Alla Johnson
+Eve Wayne
+Natasha Feduk
+Bruce Taylor
+Room id=2, volume=29,19, roomType=ParkingPlace
+Items inside the parking place:
+desk: 3.518296800202727
+desk: 4.113018772780963
+Vehicle Nautical Nomad: 4.216953655849898m^3  Displacement Hull
+Vehicle Hyundai Accent: 4.810314691143194m^3  on Electricity Fuel
+Vehicle Jeep Wrangler: 9.75085074242454m^3  2.5L Engine
+
+I am Bob Milko
+ID = 14; Address: Street 1
+Room id=9, volume=45,3, roomType=Apartment
+Persons checked in:
+Mark Taylor
+Sergey Johnson
+
+I am Bruce Johnson
+ID = 17; Address: Street 8
+Room id=11, volume=65,98, roomType=Apartment
+Persons checked in:
+Bruce Parker
+Jack Milko
+Jack Johnson
+Room id=4, volume=20,74, roomType=ParkingPlace
+Items inside the parking place:
+Vehicle Harbor Hero: 13.163909351028762m^3  Displacement Hull
+
+I am Eve Popiuk
+ID = 21; Address: Street 2
+Room id=13, volume=53,79, roomType=Apartment
+Persons checked in:
+Bruce Doe
+Natasha Smith
+Jane Taylor
+
+I am Hanna Miller
+ID = 25; Address: Street 4
+Room id=15, volume=67,42, roomType=Apartment
+Persons checked in:
+Bart Smith
+Jane Miller
